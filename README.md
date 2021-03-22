@@ -42,7 +42,7 @@ Projeto Over The Air plataforma de controle de versão de projetos IoT
 É necessário criar um banco de dados postgresql seguindo os parâmetros informados no arquivo ormconfig.json
 
 ### Comandos da aplicação
-1. Instalar dependênciar
+1. Instalar dependências
 ```
 yard add
 ```
