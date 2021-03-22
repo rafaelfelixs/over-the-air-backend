@@ -36,3 +36,22 @@ Projeto Over The Air plataforma de controle de versão de projetos IoT
   - Inversão de dependência
 - Uso de Controllers para melhor gerenciamento das Rotas
 - Repositórios Fake para testes automatizados
+
+## Instruções para rodar o projeto :running:
+### Configuração do BD Postgresql
+É necessário criar um banco de dados postgresql seguindo os parâmetros informados no arquivo ormconfig.json
+
+### Comandos da aplicação
+1. Instalar dependênciar
+```
+yard add
+```
+ou
+```
+npm install
+```
+
+2. Rodar servidor da aplicação
+```
+yarn dev:server
+```
