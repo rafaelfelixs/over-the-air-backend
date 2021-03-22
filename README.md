@@ -21,18 +21,18 @@ Projeto Over The Air plataforma de controle de versão de projetos IoT
    - Verificação de criação de projeto com o mesmo título
 
 ## Tecnologias/Bibliotecas utilizadas :book:
-. Linguagem e stack: Typescript e Nodejs
-. Servidor da aplicação: express
-. Banco de Dados: Postgresql com TypeOrm
-. Testes: jest
-. Autenticação de usuários: jsonwebtoken, bcryptjs, uuid
-. Upload de arquivos: multer
+- Linguagem e stack: Typescript e Nodejs
+- Servidor da aplicação: express
+- Banco de Dados: Postgresql com TypeOrm
+- Testes: jest
+- Autenticação de usuários: jsonwebtoken, bcryptjs, uuid
+- Upload de arquivos: multer
 
 
 ## Arquitetura/Estratégias utilizadas :dart:
-. SOLID (aplicação de 3 dos 5 princípios)
-  . Princípio da responsabilidade única
-  . Princípio da substituição de Liskov
-  . Inversão da dependência
-. Uso de Controllers para melhor gerenciamento das Rotas
-. Repositórios Fake para testes automatizados
+- SOLID (aplicação de 3 dos 5 princípios)
+  - Princípio da responsabilidade única
+  - Princípio da substituição de Liskov
+  - Inversão da dependência
+- Uso de Controllers para melhor gerenciamento das Rotas
+- Repositórios Fake para testes automatizados
