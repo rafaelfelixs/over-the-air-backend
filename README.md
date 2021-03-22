@@ -33,6 +33,6 @@ Projeto Over The Air plataforma de controle de versão de projetos IoT
 - SOLID (aplicação de 3 dos 5 princípios)
   - Princípio da responsabilidade única
   - Princípio da substituição de Liskov
-  - Inversão da dependência
+  - Inversão de dependência
 - Uso de Controllers para melhor gerenciamento das Rotas
 - Repositórios Fake para testes automatizados
